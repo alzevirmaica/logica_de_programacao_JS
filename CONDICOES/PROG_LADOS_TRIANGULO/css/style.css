@@ -1,0 +1,21 @@
+img {
+  float: left;
+  height: 300px;
+  width: 300px;
+}
+
+h1 {
+  border-bottom-style: inset;
+}
+
+#lado1{
+  margin-bottom: 15px;
+}
+
+#lado2{
+  margin-bottom: 15px;
+}
+
+#lado3{
+  margin-bottom: 15px;
+}
